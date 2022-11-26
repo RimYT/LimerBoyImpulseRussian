@@ -8,7 +8,7 @@
 
 # :computer: Основное окно
 <p align="center">
-  <img src="https://i.ibb.co/8c1fb1Q/Impulse-Main.png">
+  <img src="https://ibb.co/bQyzVpQ">
 </p>
 
 # :satellite: Методы:
